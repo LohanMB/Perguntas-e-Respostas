@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.container{
+    border-radius: 80px;
+    background-color: rgb(166, 247, 247);
+    border: solid 3px rgba(111, 221, 83, 0.829);
+    width: 96%;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.perguntas, .respostas{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 5px;
+}
+
+.respostas{
+    width: 35.5px;
+    padding: 1%;
+    margin: 0 auto;
+}
+
